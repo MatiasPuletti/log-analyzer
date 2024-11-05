@@ -2,6 +2,9 @@
 
 A simple shell script that analyzes NGINX access logs to extract and display useful information. This script provides insights into the most active IP addresses, requested paths, response status codes, and user agents in a formatted, easy-to-read output.
 
+> **✨ Inspiration**: This project is inspired by [Log Analyzer Project on roadmap.sh](https://roadmap.sh/projects/nginx-log-analyser)
+
+
 ## Features
 
 - **Top 5 IP Addresses** with the most requests
